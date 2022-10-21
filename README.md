@@ -1,5 +1,6 @@
 ### Hi there 👋
-It's fallcoder ! Welcom to my world😍💻  ### I am a web and mobile developer
+It's fallcoder ! Welcom to my world😍💻  
+I am a web and mobile developer
 
 <!--
 **fallcoder/fallcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
