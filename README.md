@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm fallcoder</h1>
 <h3 align="center">web and mobile developer</h3>
-<img align="right" width="400" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fallcoder&label=Profile%20views&color=0e75b6&style=flat" alt="fallcoder" /> </p>
 
