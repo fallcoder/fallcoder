@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm fallcoder</h1>
 <h3 align="center">web and mobile developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fallcoder&label=Profile%20views&color=0e75b6&style=flat" alt="fallcoder" /> </p>
+
 
 - 📫 How to reach me **mouhamedfall056@gmail.com**
 
