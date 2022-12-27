@@ -3,7 +3,6 @@
 
 
 
-- 📫 How to reach me **mouhamedfall056@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
