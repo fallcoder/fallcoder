@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm fallcoder</h1>
+<h1 align="center">Hi 👋, I'm fallcoder from Senegal 🇸🇳</h1>
 <h3 align="center">web and mobile developer</h3>
 
 
