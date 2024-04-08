@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Mouhamed Fall, a web and mobile developer with a passion for technology. 💻📱<br><br>I love crafting elegant solutions to complex problems and bringing ideas to life through code. Whether it's building sleek web interfaces or creating seamless mobile experiences, I'm always eager to dive into the world of software development.<br><br>Feel free to explore my repositories to see some of my latest projects and don't hesitate to reach out if you have any questions or collaboration opportunities. Let's build something amazing together! 🚀<br><br>
+👋 Hi there! I'm Mouhamed Fall, a web and mobile developer, passionate about technology. 💻📱<br><br>I love crafting elegant solutions to complex problems and bringing ideas to life through code. Whether it's building sleek web interfaces or creating seamless mobile experiences, I'm always eager to dive into the world of software development.<br><br>Feel free to explore my repositories to see some of my latest projects and don't hesitate to reach out if you have any questions or collaboration opportunities. Let's build something amazing together! 🚀<br><br>
 
 
 ## 🌐 Socials:
